@@ -1,2 +1,2 @@
 
-# This the healty eyes images data after discrete wavelet transform
+# This is healty eyes image data after discrete wavelet transform
