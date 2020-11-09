@@ -1,1 +1,1 @@
-The images of diabetic retinopathy data after DWT
+The image data of diabetic retinopathy patients' eyes after DWT
