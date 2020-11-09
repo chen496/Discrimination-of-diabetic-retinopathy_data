@@ -1,1 +1,1 @@
-# -Discrimination-of-diabetic-retinopathy_data
+# Discrimination-of-diabetic-retinopathy_data
